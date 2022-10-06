@@ -1,0 +1,222 @@
+body{
+    background-color:antiquewhite;
+}
+
+
+#imgLogo{
+    width: 10%;
+    height: 10%;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-bottom: 25px;
+    float: left;
+    border-radius: 50%;
+}
+
+
+.navBar{
+    height: 50%;
+    width: auto;
+    float: left;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(64, 38, 3);
+    margin-bottom: 5%;
+    margin-top: 30px;
+    
+    background-color: bisque;
+}
+a{
+    float: right;
+    padding: 8px;
+}
+.main{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+
+}
+.centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-bottom: 50%;
+       
+}
+.centered:hover{
+    color:rgb(64, 38, 3) ;
+}
+.kopiImage{
+    padding-left: 5%;
+
+
+}
+.main1{
+    position: relative;
+    text-align: left;
+    color: rgb(64, 38, 3);
+    font-size: x-large;
+    width: 100%;
+}
+.centeredKopi{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-bottom: 50%;
+        text-align: left;
+        margin-left: 25%;
+        text-align: center;
+}
+.centeredKopi:hover{
+    color: brown;
+}
+.main0{
+    flex: content;
+}
+.main2{
+    height: 540px;
+    width: 22%;
+    background:none;
+    border:rgb(64, 38, 3) 2px solid;
+    float: left;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 20px;
+        display: grid;
+        place-items: center;
+        font-size: large;
+         font-family: 'Times New Roman', 
+         Times, serif;
+         text-align: center;
+        color:rgb(64, 38, 3);
+        position: relative;
+       
+       
+        
+}
+.coffeeImg{
+        /* width: 50%; */
+        /* height: 200px; */
+        width: 45%;
+        height: auto;
+        vertical-align: middle;
+        
+    
+    }
+h2{
+        color: rgb(64, 38, 3);
+        text-align: center;  
+        background-color: bisque;
+    }
+h3{
+    color: rgb(64, 38, 3);
+    text-align: center;
+}
+h5{
+    color: rgb(64, 38, 3);
+    text-align: center;
+}
+.button{
+   background-color:  rgb(64, 38, 3);
+   border: none;
+   color: bisque;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 20px;
+   margin: 4px 2px;
+   cursor: pointer;
+   margin-top: 19%;
+   margin-right: 21%;
+}
+.button:hover{
+    background-color: bisque;
+    color: rgb(64, 38, 3);
+
+}
+.button1{
+    background-color:  rgb(64, 38, 3);
+    border: none;
+    color: bisque;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer; 
+}
+.button1:hover{
+    background-color: bisque;
+    color: rgb(64, 38, 3);
+}
+
+.button2{
+    background-color:  rgb(64, 38, 3);
+    border: none;
+    color: bisque;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer; 
+    margin-left: 7%;
+}
+.button2:hover{
+    background-color: bisque;
+    color: rgb(64, 38, 3);
+}
+.ourStory{
+    position: absolute;
+    margin-top: 40%;
+    position: relative;
+    text-align: left;
+    color: bisque;
+    font-size: x-large;
+}
+.ourStoryText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 50%;
+    text-align: left;
+
+}
+.ourStoryText:hover{
+    color:white ;
+
+}
+.form{
+    background-color: bisque;
+    width: 100%;
+}
+h3{
+    font-size: x-large;
+    font-weight: 100px;
+}
+.footer{
+    background-color:rgb(64, 38, 3) ;
+   
+}
+.h31{
+    text-align: left;
+
+}
+.icons{
+    margin-left: 20px;
+    margin-left:10px;
+    margin-top: 20px;
+
+
+}
+a.ex2:hover, a.ex2:active {
+    font-size: 150%;
+}
+
+
+
